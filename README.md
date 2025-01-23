@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 About Me<br><br>🛠️ Current Projects: Member of a VEX V5 robotics team, diving into competitive programming and exploring low-level systems engineering.<br>💻 Collaboration Interests: Backend development enthusiast eager to collaborate on impactful projects.<br>🌐 Skill Development Goals: Sharpening front-end skills to become a well-rounded full-stack developer.<br>🎯 Learning Journey: Mastering competitive programming algorithms and working with SDL to build my own game engine.<br>🚀 Achievements: Proud holder of multiple global leaderboard spots for fastest code execution on DMOJ.<br>📬 Let’s connect and build something amazing together!
+🌟 About Me<br><br>🛠️ Current Projects: Executive Member of a VEX V5 robotics team, diving into competitive programming and exploring low-level systems engineering.<br>💻 Collaboration Interests: Backend development enthusiast eager to collaborate on impactful projects.<br>🌐 Skill Development Goals: Sharpening front-end skills to become a well-rounded full-stack developer.<br>🎯 Learning Journey: Mastering competitive programming algorithms and working with SDL to build my own game engine.<br>🚀 Achievements: Proud holder of multiple global leaderboard spots for fastest code execution on DMOJ.<br>📬 Let’s connect and build something amazing together!
 
 
 ## 🌐 Socials:
